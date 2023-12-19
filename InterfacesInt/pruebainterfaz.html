@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salud y Nutrición</title>
+    <script src="node_modules/pixi.js/dist/pixi.min.js"></script>
+    <script src="https://unpkg.com/compromise"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background-image: url('http://127.0.0.1:3000/imagenes/fondo.jpg'); 
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+</style>
+<body>
+    
+    <div id="contenedor">
+        <h1>Consejos de Salud y Nutrición</h1>
+        <div class="imagenContainer">
+            <button id="speechButton">Hablar</button>
+            <div class="dialogoContainer">
+                <div id="burbuja1" class="burbujaDialogo">Diálogo aquí...</div>
+            <div id="animacion"></div>
+        </div>
+        <div class="textoContainer">
+            <label id="imagenLabel"></label>
+            <button id="brecomendado" class="botonCategoria">Recomendado</button>
+            <button id="bnoRecomendado" class="botonCategoria">No Recomendado</button>
+        </div>
+        <textarea id="textoArea" placeholder="Ingresa tu texto aquí"></textarea>
+        <button id="anemiaButton" class="botonCategoria">Anemia</button>
+        <button id="infeccionesButton" class="botonCategoria">Infecciones</button>
+        <button id="coagulacionButton" class="botonCategoria">Coagulación</button>
+        <button id="hepaticosButton" class="botonCategoria">Hepáticos</button>
+        <button id="renalesButton" class="botonCategoria">Renales</button>
+        <button id="tiroideosButton" class="botonCategoria">Tiroideos</button>
+        <button id="cardiacosButton" class="botonCategoria">Cardíacos</button>
+        <button id="deficienciaVitaminasButton" class="botonCategoria">Deficiencia de Vitaminas</button>
+        <button id="colesterolButton" class="botonCategoria">Colesterol</button>
+    </div>    
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "compromise": "^14.10.0",
+    "pixi.js": "^7.3.1",
+    "pixie": "^2.0.0"
+  }
+}

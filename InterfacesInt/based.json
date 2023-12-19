@@ -1,0 +1,1162 @@
+{
+  "Anemia": {
+    "Recomendados": [
+      {
+        "nombre": "Almejas",
+        "descripcion": "Molusco rico en hierro que beneficia a quienes tienen anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Cereales fortificados",
+        "descripcion": "Cereales enriquecidos con hierro y otros nutrientes esenciales para combatir la anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Hígado de pollo",
+        "descripcion": "Fuente de hierro y vitaminas beneficiosas para combatir la anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Higos secos",
+        "descripcion": "Fruta seca rica en hierro que beneficia a quienes padecen anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Tofu",
+        "descripcion": "Fuente vegetal de hierro, especialmente beneficioso para personas que siguen dietas vegetarianas o veganas.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Espinaca cocida",
+        "descripcion": "Contiene hierro y otros nutrientes esenciales para combatir la anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Pavo",
+        "descripcion": "Carne magra rica en hierro y proteínas que beneficia a quienes tienen anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Peras",
+        "descripcion": "Fruta rica en hierro y otras vitaminas y minerales esenciales para la salud.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Acelga cocida",
+        "descripcion": "Verdura rica en hierro y otros nutrientes esenciales para combatir la anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Ciruelas",
+        "descripcion": "Fruta rica en hierro que beneficia a quienes padecen anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Cordero",
+        "descripcion": "Carne rica en hierro y proteínas que beneficia a quienes tienen anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Pistachos",
+        "descripcion": "Fruto seco rico en hierro y otros nutrientes esenciales para la salud.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Garbanzos cocidos",
+        "descripcion": "Legumbre rica en hierro, fibra y proteínas que beneficia a quienes tienen anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Cacao en polvo sin azúcar",
+        "descripcion": "Fuente de hierro que beneficia a quienes tienen anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Atún en lata",
+        "descripcion": "Pescado rico en hierro y ácidos grasos omega-3 que son buenos para combatir la anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Pollo",
+        "descripcion": "Carne magra rica en hierro y proteínas que beneficia a quienes tienen anemia.",
+        "categoria": "Anemia"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Leche y productos lácteos en exceso",
+        "descripcion": "El calcio en exceso puede interferir con la absorción de hierro, por lo que no es recomendable en casos de anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Té negro en exceso",
+        "descripcion": "El té negro contiene taninos que pueden dificultar la absorción de hierro, por lo que no es beneficioso en casos de anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Chocolate con leche",
+        "descripcion": "Contiene calcio y puede dificultar la absorción de hierro, por lo que no es recomendable en casos de anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Quesos en exceso",
+        "descripcion": "Al igual que otros productos lácteos, el exceso de queso puede interferir con la absorción de hierro.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Huevos en exceso",
+        "descripcion": "Aunque son una fuente de hierro, el exceso de huevos puede dificultar la absorción de hierro no hemo.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Café en exceso",
+        "descripcion": "El consumo excesivo de café puede interferir en la absorción de hierro, lo cual no es beneficioso para quienes tienen anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "Alcohol en exceso",
+        "descripcion": "El alcohol en exceso puede afectar la absorción de nutrientes y no es beneficioso en casos de anemia.",
+        "categoria": "Anemia"
+      },
+      {
+        "nombre": "pan integral en exceso",
+        "descripcion": "Aunque es una fuente de hierro, el exceso de fibra en el pan integral puede interferir con la absorción de hierro.",
+        "categoria": "Anemia"
+      }
+    ]
+  },
+  "Infecciones": {
+    "Recomendados": [
+      {
+        "nombre": "Caldo de huesos",
+        "descripcion": "Caldo rico en nutrientes que puede ayudar a fortalecer el sistema inmunológico en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Yogur (con probióticos)",
+        "descripcion": "Fuente de probióticos beneficiosos para la salud intestinal, lo cual puede fortalecer el sistema inmunológico.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Limón",
+        "descripcion": "Rico en vitamina C, que puede ayudar a fortalecer el sistema inmunológico en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Ajo",
+        "descripcion": "Conocido por sus propiedades antibacterianas y antivirales, beneficioso en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Miso (pasta de soja fermentada)",
+        "descripcion": "Fuente de probióticos y nutrientes beneficiosos para la salud intestinal, lo cual puede fortalecer el sistema inmunológico.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Té verde",
+        "descripcion": "Rico en antioxidantes que pueden ayudar a fortalecer el sistema inmunológico en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Puerro",
+        "descripcion": "Contiene compuestos bioactivos que pueden ayudar a fortalecer el sistema inmunológico en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Pimientos rojos",
+        "descripcion": "Ricos en vitamina C, que puede ayudar a fortalecer el sistema inmunológico en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Almendras",
+        "descripcion": "Ricas en vitamina E, que puede ayudar a fortalecer el sistema inmunológico en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Semillas de chía",
+        "descripcion": "Fuente de ácidos grasos omega-3 y antioxidantes, beneficiosos para el sistema inmunológico.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Chucrut (repollo fermentado)",
+        "descripcion": "Fuente de probióticos beneficiosos para la salud intestinal, lo cual puede fortalecer el sistema inmunológico.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Aceite de coco",
+        "descripcion": "Contiene ácido láurico, que puede tener propiedades antimicrobianas beneficiosas en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Aguacate",
+        "descripcion": "Rico en nutrientes que pueden fortalecer el sistema inmunológico en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Manzana",
+        "descripcion": "Rica en antioxidantes y fibra, que pueden ser beneficiosos para el sistema inmunológico en casos de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Jengibre",
+        "descripcion": "Raíz con propiedades antimicrobianas y antiinflamatorias, beneficioso en casos de infecciones.",
+        "categoria": "Infecciones"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Alimentos ultraprocesados y ricos en grasas trans",
+        "descripcion": "Estos alimentos pueden afectar negativamente el sistema inmunológico y empeorar las infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Azúcares refinados y dulces en exceso",
+        "descripcion": "El consumo excesivo de azúcares refinados puede debilitar el sistema inmunológico y empeorar las infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Alcohol en exceso",
+        "descripcion": "El consumo excesivo de alcohol puede debilitar el sistema inmunológico y aumentar el riesgo de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Alimentos ricos en grasas saturadas en exceso",
+        "descripcion": "El exceso de grasas saturadas puede afectar negativamente el sistema inmunológico y aumentar el riesgo de infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Alimentos ricos en sodio en exceso",
+        "descripcion": "El exceso de sodio puede afectar negativamente el sistema inmunológico y la respuesta a las infecciones.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Alimentos procesados y ricos en azúcares añadidos",
+        "descripcion": "Estos alimentos suelen ser bajos en nutrientes esenciales y pueden debilitar el sistema inmunológico.",
+        "categoria": "Infecciones"
+      },
+      {
+        "nombre": "Alimentos ricos en grasas trans",
+        "descripcion": "Las grasas trans pueden afectar negativamente el sistema inmunológico y la respuesta a las infecciones.",
+        "categoria": "Infecciones"
+      }
+    ]
+  },
+  "Coagulación": {
+    "Recomendados": [
+      {
+        "nombre": "Espinacas",
+        "descripcion": "Ricas en vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Brócoli",
+        "descripcion": "Contiene vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Col rizada",
+        "descripcion": "Fuente de vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Lechuga romana",
+        "descripcion": "Contiene vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Tomates",
+        "descripcion": "Fuente de vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Pimientos rojos",
+        "descripcion": "Ricos en vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Pimientos verdes",
+        "descripcion": "Fuente de vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Fresas",
+        "descripcion": "Contienen vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Kiwi",
+        "descripcion": "Rico en vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Naranjas",
+        "descripcion": "Fuente de vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Semillas de chía",
+        "descripcion": "Contienen vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Nueces",
+        "descripcion": "Fuente de vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Semillas de lino",
+        "descripcion": "Ricas en vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Salmón",
+        "descripcion": "Contiene vitamina K, que es importante para la coagulación sanguínea, además de ácidos grasos omega-3 beneficiosos.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Atún",
+        "descripcion": "Fuente de vitamina K, que es importante para la coagulación sanguínea, además de ácidos grasos omega-3 beneficiosos.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "descripcion": "Rico en vitamina K y grasas saludables, beneficioso para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Aceite de linaza",
+        "descripcion": "Contiene vitamina K, que es importante para la coagulación sanguínea, además de ácidos grasos omega-3 beneficiosos.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Aceite de canola",
+        "descripcion": "Fuente de vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Aceite de soja",
+        "descripcion": "Rico en vitamina K, que es importante para la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Aceite de nuez",
+        "descripcion": "Contiene vitamina K, que es importante para la coagulación sanguínea, además de ácidos grasos beneficiosos.",
+        "categoria": "Coagulación"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Kale",
+        "descripcion": "Esta verdura es rica en vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Brócoli",
+        "descripcion": "Contiene vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Aceite de soja",
+        "descripcion": "Rico en vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Tofu",
+        "descripcion": "Fuente vegetal de vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Coles de Bruselas",
+        "descripcion": "Contienen vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Espinacas",
+        "descripcion": "Ricas en vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Aceite de colza",
+        "descripcion": "Rico en vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Garbanzos",
+        "descripcion": "Legumbre rica en vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Cebollas verdes",
+        "descripcion": "Contienen vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Espirulina",
+        "descripcion": "Alga rica en vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Aceite de linaza",
+        "descripcion": "Rico en vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      },
+      {
+        "nombre": "Mostaza verde",
+        "descripcion": "Rica en vitamina K, lo cual puede interferir en la coagulación sanguínea.",
+        "categoria": "Coagulación"
+      }
+    ]
+  },
+  "Hepáticos": {
+    "Recomendados": [
+      {
+        "nombre": "Alcachofas",
+        "descripcion": "Contienen compuestos que pueden beneficiar la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Limón",
+        "descripcion": "Rico en vitamina C y antioxidantes, beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Ajo",
+        "descripcion": "Conocido por sus propiedades antioxidantes y antiinflamatorias, beneficioso para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Cúrcuma",
+        "descripcion": "Contiene curcumina, un compuesto que puede tener efectos beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Té verde",
+        "descripcion": "Rico en antioxidantes que pueden ser beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Arándanos",
+        "descripcion": "Ricos en antioxidantes que pueden ser beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Nueces",
+        "descripcion": "Fuente de grasas saludables y antioxidantes, beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "descripcion": "Rico en ácidos grasos saludables que pueden ser beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Salmón",
+        "descripcion": "Contiene ácidos grasos omega-3 beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Trucha",
+        "descripcion": "Pescado rico en ácidos grasos omega-3 que pueden ser beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Aceite de coco",
+        "descripcion": "Contiene ácido láurico, que puede tener efectos beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Remolacha",
+        "descripcion": "Contiene compuestos que pueden beneficiar la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Zanahorias",
+        "descripcion": "Ricas en betacarotenos y antioxidantes, beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Manzanas",
+        "descripcion": "Ricas en antioxidantes y fibra, que pueden ser beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Espárragos",
+        "descripcion": "Contienen compuestos que pueden beneficiar la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Aceite de linaza",
+        "descripcion": "Rico en ácidos grasos omega-3 y antioxidantes, beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Aceite de chía",
+        "descripcion": "Fuente de ácidos grasos omega-3 y antioxidantes, beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Espinacas",
+        "descripcion": "Ricas en antioxidantes y compuestos que pueden ser beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Brócoli",
+        "descripcion": "Contiene compuestos que pueden beneficiar la salud hepática.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Col rizada",
+        "descripcion": "Rica en antioxidantes y compuestos que pueden ser beneficiosos para la salud hepática.",
+        "categoria": "Hepáticos"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Alcohol en exceso",
+        "descripcion": "El consumo excesivo de alcohol puede dañar el hígado y empeorar las condiciones hepáticas.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Alimentos ricos en grasas saturadas en exceso",
+        "descripcion": "El exceso de grasas saturadas puede contribuir al desarrollo de enfermedades hepáticas.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Alimentos ultraprocesados y ricos en grasas trans",
+        "descripcion": "Estos alimentos pueden afectar negativamente la salud del hígado.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Alimentos ricos en sodio en exceso",
+        "descripcion": "El exceso de sodio puede contribuir al desarrollo de enfermedades hepáticas.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Azúcares refinados y dulces en exceso",
+        "descripcion": "El consumo excesivo de azúcares refinados puede afectar la salud del hígado.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Aceites vegetales refinados",
+        "descripcion": "El consumo excesivo de aceites refinados puede contribuir al desarrollo de enfermedades hepáticas.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Alimentos procesados y ricos en aditivos",
+        "descripcion": "Estos alimentos pueden contener sustancias que afectan negativamente la salud del hígado.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Alimentos ricos en colesterol en exceso",
+        "descripcion": "El exceso de colesterol en la dieta puede afectar la salud del hígado.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Refrescos y bebidas azucaradas en exceso",
+        "descripcion": "El consumo excesivo de azúcares puede contribuir al desarrollo de enfermedades hepáticas.",
+        "categoria": "Hepáticos"
+      },
+      {
+        "nombre": "Alimentos procesados y ricos en conservantes",
+        "descripcion": "Estos alimentos pueden contener sustancias que afectan negativamente la salud del hígado.",
+        "categoria": "Hepáticos"
+      }
+    ]
+  },
+  "Renales": {
+    "Recomendados": [
+      {
+        "nombre": "Aguacate",
+        "descripcion": "Fruta rica en potasio y ácidos grasos saludables, beneficioso para la salud renal.",
+        "categoria": "Renales"
+      },
+      {
+        "nombre": "Brócoli",
+        "descripcion": "Contiene potasio y es una buena fuente de fibra y antioxidantes.",
+        "categoria": "Renales"
+      },
+      {
+        "nombre": "Manzanas",
+        "descripcion": "Bajas en potasio y ricas en fibra, beneficiosas para la salud renal.",
+        "categoria": "Renales"
+      },
+      {
+        "nombre": "Pechuga de pollo",
+        "descripcion": "Fuente magra de proteínas, importante para la salud renal.",
+        "categoria": "Renales"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Bananas",
+        "descripcion": "Alta en potasio, lo cual puede ser perjudicial para personas con problemas renales.",
+        "categoria": "Renales"
+      },
+      {
+        "nombre": "Naranjas",
+        "descripcion": "Ricas en potasio, se deben consumir con moderación en casos de problemas renales.",
+        "categoria": "Renales"
+      },
+      {
+        "nombre": "Patatas",
+        "descripcion": "Contienen altos niveles de potasio, que pueden ser perjudiciales para los riñones.",
+        "categoria": "Renales"
+      }
+    ]
+  },
+  "Tiroideos": {
+    "Recomendados": [
+      {
+        "nombre": "Pescado de mar (atún, salmón)",
+        "descripcion": "Fuente de yodo, importante para la función tiroidea adecuada.",
+        "categoria": "Tiroideos"
+      },
+      {
+        "nombre": "Huevos",
+        "descripcion": "Buena fuente de selenio y yodo, beneficiosos para la salud tiroidea.",
+        "categoria": "Tiroideos"
+      },
+      {
+        "nombre": "Nueces de Brasil",
+        "descripcion": "Ricas en selenio, importante para la función tiroidea adecuada.",
+        "categoria": "Tiroideos"
+      },
+      {
+        "nombre": "Lácteos fortificados con yodo",
+        "descripcion": "Fuente de yodo esencial para la función tiroidea.",
+        "categoria": "Tiroideos"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Algas marinas en exceso",
+        "descripcion": "Pueden contener cantidades excesivas de yodo, lo cual puede ser perjudicial para la función tiroidea.",
+        "categoria": "Tiroideos"
+      },
+      {
+        "nombre": "Suplementos de yodo sin supervisión médica",
+        "descripcion": "El exceso de yodo puede afectar la función tiroidea.",
+        "categoria": "Tiroideos"
+      }
+    ]
+  },
+  "Cardíacos": {
+    "Recomendados": [
+      {
+        "nombre": "Pescado graso (salmón, trucha)",
+        "descripcion": "Fuente de ácidos grasos omega-3 beneficiosos para la salud cardíaca.",
+        "categoria": "Cardíacos"
+      },
+      {
+        "nombre": "Nueces",
+        "descripcion": "Ricas en ácidos grasos omega-3, beneficiosos para la salud cardíaca.",
+        "categoria": "Cardíacos"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "descripcion": "Rico en ácidos grasos monoinsaturados, beneficiosos para la salud cardíaca.",
+        "categoria": "Cardíacos"
+      },
+      {
+        "nombre": "Avena",
+        "descripcion": "Fuente de fibra soluble que puede ayudar a reducir el colesterol.",
+        "categoria": "Cardíacos"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Alimentos ricos en grasas saturadas en exceso",
+        "descripcion": "El exceso de grasas saturadas puede contribuir a problemas cardíacos.",
+        "categoria": "Cardíacos"
+      },
+      {
+        "nombre": "Alimentos ricos en sodio en exceso",
+        "descripcion": "El exceso de sodio puede aumentar la presión arterial y afectar la salud cardíaca.",
+        "categoria": "Cardíacos"
+      },
+      {
+        "nombre": "Bebidas azucaradas y refrescos",
+        "descripcion": "Pueden contribuir al aumento de peso y problemas cardíacos.",
+        "categoria": "Cardíacos"
+      }
+    ]
+  },
+  "DeficienciasVitaminas": {
+    "Recomendados": [
+      {
+        "nombre": "Frutas cítricas (naranjas, limones)",
+        "descripcion": "Ricas en vitamina C, importante para el sistema inmunológico y otras funciones.",
+        "categoria": "DeficienciasVitaminas"
+      },
+      {
+        "nombre": "Pescado graso (salmón, trucha)",
+        "descripcion": "Fuente de vitamina D, importante para la salud ósea y otras funciones.",
+        "categoria": "DeficienciasVitaminas"
+      },
+      {
+        "nombre": "Huevos",
+        "descripcion": "Buena fuente de varias vitaminas, incluyendo la vitamina B12.",
+        "categoria": "DeficienciasVitaminas"
+      },
+      {
+        "nombre": "Verduras de hoja verde oscuro (espinacas, kale)",
+        "descripcion": "Ricas en diversas vitaminas y minerales importantes.",
+        "categoria": "DeficienciasVitaminas"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Alimentos ultraprocesados y carentes de nutrientes",
+        "descripcion": "Estos alimentos pueden contribuir a deficiencias de vitaminas y minerales.",
+        "categoria": "DeficienciasVitaminas"
+      },
+      {
+        "nombre": "Dietas extremadamente restrictivas sin supervisión médica",
+        "descripcion": "Pueden llevar a deficiencias de vitaminas y minerales.",
+        "categoria": "DeficienciasVitaminas"
+      }
+    ]
+  },
+  "Colesterol": {
+    "Recomendados": [
+      {
+        "nombre": "Avena",
+        "descripcion": "Fuente de fibra soluble que puede ayudar a reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "descripcion": "Rico en ácidos grasos monoinsaturados, beneficiosos para reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Nueces",
+        "descripcion": "Ricas en ácidos grasos omega-3 y otros nutrientes que pueden ayudar a reducir el colesterol.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Pescado graso (salmón, trucha)",
+        "descripcion": "Fuente de ácidos grasos omega-3 que pueden ayudar a reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Aguacate",
+        "descripcion": "Rico en grasas monoinsaturadas que pueden ayudar a reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Frijoles y legumbres",
+        "descripcion": "Fuente de fibra soluble y proteínas vegetales que pueden ayudar a reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Brócoli",
+        "descripcion": "Contiene fibra y fitoesteroles que pueden ayudar a reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Pera",
+        "descripcion": "Rica en fibra soluble que puede ayudar a reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Espinacas",
+        "descripcion": "Ricas en luteína, que puede ayudar a reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Cebada",
+        "descripcion": "Fuente de fibra soluble que puede ayudar a reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Ciruelas pasas",
+        "descripcion": "Ricas en fibra soluble que puede ayudar a reducir el colesterol LDL.",
+        "categoria": "Colesterol"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Alimentos ricos en grasas trans",
+        "descripcion": "Las grasas trans pueden aumentar el colesterol LDL y deben evitarse en la medida de lo posible.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Alimentos ricos en grasas saturadas en exceso",
+        "descripcion": "El exceso de grasas saturadas puede aumentar el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Alcohol en exceso",
+        "descripcion": "El consumo excesivo de alcohol puede aumentar los niveles de triglicéridos y el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Embutidos y carnes procesadas",
+        "descripcion": "Ricos en grasas saturadas y colesterol, deben consumirse con moderación en una dieta para reducir el colesterol.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Mantequilla y margarina con grasas trans",
+        "descripcion": "Contienen grasas que pueden aumentar el colesterol LDL y deben evitarse.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Yema de huevo",
+        "descripcion": "Rica en colesterol, se debe consumir con moderación en una dieta para reducir el colesterol.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Patatas fritas y snacks procesados",
+        "descripcion": "Ricos en grasas saturadas y trans, deben evitarse para mantener niveles de colesterol saludables.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Productos de repostería y bollería industrial",
+        "descripcion": "Suelen contener grasas trans y saturadas que pueden elevar el colesterol LDL.",
+        "categoria": "Colesterol"
+      },
+      {
+        "nombre": "Galletas saladas y aperitivos comerciales",
+        "descripcion": "Pueden contener grasas trans y saturadas que no son recomendables para el colesterol.",
+        "categoria": "Colesterol"
+      }
+    ]
+  },
+  "Verduras y Hortalizas": {
+    "Recomendados": [
+      {
+        "nombre": "Brócoli",
+        "descripcion": "Rico en vitaminas y minerales. Beneficioso para la salud del corazón y el sistema inmunológico.",
+        "categoria": "Verduras y Hortalizas"
+      },
+      {
+        "nombre": "Zanahorias",
+        "descripcion": "Fuente de vitamina A, importante para la salud de la visión.",
+        "categoria": "Verduras y Hortalizas"
+      },
+      {
+        "nombre": "Espinacas",
+        "descripcion": "Ricas en hierro y otras vitaminas y minerales esenciales.",
+        "categoria": "Verduras y Hortalizas"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Patatas fritas",
+        "descripcion": "Alto contenido de grasas y poco valor nutricional.",
+        "categoria": "Verduras y Hortalizas"
+      },
+      {
+        "nombre": "Vegetales enlatados con alto contenido de sodio",
+        "descripcion": "Pueden contribuir a la presión arterial alta y otros problemas de salud.",
+        "categoria": "Verduras y Hortalizas"
+      }
+    ]
+  },
+  "Frutas": {
+    "Recomendados": [
+      {
+        "nombre": "Manzanas",
+        "descripcion": "Ricas en fibra y antioxidantes. Beneficiosas para la digestión y la salud del corazón.",
+        "categoria": "Frutas"
+      },
+      {
+        "nombre": "Plátanos",
+        "descripcion": "Buena fuente de potasio, importante para la función muscular y la salud del corazón.",
+        "categoria": "Frutas"
+      },
+      {
+        "nombre": "Arándanos",
+        "descripcion": "Altos en antioxidantes, beneficiosos para la salud cerebral y el sistema inmunológico.",
+        "categoria": "Frutas"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Refrescos de frutas con alto contenido de azúcar",
+        "descripcion": "Pueden contribuir a problemas de salud como la diabetes y la obesidad.",
+        "categoria": "Frutas"
+      },
+      {
+        "nombre": "Frutas enlatadas con jarabe",
+        "descripcion": "Altos en azúcares añadidos, mejor optar por frutas frescas.",
+        "categoria": "Frutas"
+      }
+    ]
+  },
+  "Granos Integrales": {
+    "Recomendados": [
+      {
+        "nombre": "Arroz integral",
+        "descripcion": "Rico en fibra y nutrientes esenciales. Beneficioso para la digestión y la salud cardiovascular.",
+        "categoria": "Granos Integrales"
+      },
+      {
+        "nombre": "Avena",
+        "descripcion": "Buena fuente de fibra soluble que puede ayudar a reducir el colesterol.",
+        "categoria": "Granos Integrales"
+      },
+      {
+        "nombre": "Quinoa",
+        "descripcion": "Alto contenido de proteínas y nutrientes. Adecuada para una dieta equilibrada.",
+        "categoria": "Granos Integrales"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Pan blanco y productos de harina refinada",
+        "descripcion": "Tienen menos nutrientes que los granos integrales.",
+        "categoria": "Granos Integrales"
+      },
+      {
+        "nombre": "Cereales azucarados",
+        "descripcion": "Altos en azúcares añadidos, mejor optar por opciones más saludables.",
+        "categoria": "Granos Integrales"
+      }
+    ]
+  },
+  "Legumbres": {
+    "Recomendados": [
+      {
+        "nombre": "Lentejas",
+        "descripcion": "Excelente fuente de proteínas y fibra. Beneficiosas para la salud digestiva.",
+        "categoria": "Legumbres"
+      },
+      {
+        "nombre": "Garbanzos",
+        "descripcion": "Ricos en proteínas y nutrientes esenciales. Beneficiosos para la salud del corazón.",
+        "categoria": "Legumbres"
+      },
+      {
+        "nombre": "Frijoles negros",
+        "descripcion": "Altos en fibra y antioxidantes. Beneficiosos para la salud del corazón y el sistema inmunológico.",
+        "categoria": "Legumbres"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Productos de legumbres fritos o procesados",
+        "descripcion": "Pueden contener grasas no saludables y aditivos.",
+        "categoria": "Legumbres"
+      }
+    ]
+  },
+  "Proteínas Magras": {
+    "Recomendados": [
+      {
+        "nombre": "Pechuga de pollo",
+        "descripcion": "Baja en grasas y rica en proteínas. Beneficiosa para el desarrollo muscular.",
+        "categoria": "Proteínas Magras"
+      },
+      {
+        "nombre": "Pavo sin piel",
+        "descripcion": "Fuente magra de proteínas. Beneficioso para la salud del corazón.",
+        "categoria": "Proteínas Magras"
+      },
+      {
+        "nombre": "Pescado blanco (merluza, lenguado)",
+        "descripcion": "Bajo en grasas y alto en proteínas. Beneficioso para la salud cardiovascular.",
+        "categoria": "Proteínas Magras"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Carnes procesadas (salchichas, embutidos)",
+        "descripcion": "Pueden contener altos niveles de sodio y aditivos poco saludables.",
+        "categoria": "Proteínas Magras"
+      },
+      {
+        "nombre": "Cortes de carne grasos (costillas, chuletas de cerdo)",
+        "descripcion": "Altos en grasas saturadas, mejor optar por opciones más magras.",
+        "categoria": "Proteínas Magras"
+      }
+    ]
+  },
+  "Fuentes de Grasas Saludables": {
+    "Recomendados": [
+      {
+        "nombre": "Aguacate",
+        "descripcion": "Rico en grasas monoinsaturadas y nutrientes esenciales. Beneficioso para la salud del corazón.",
+        "categoria": "Fuentes de Grasas Saludables"
+      },
+      {
+        "nombre": "Aceite de oliva virgen extra",
+        "descripcion": "Fuente de grasas saludables y antioxidantes. Beneficioso para la salud del corazón.",
+        "categoria": "Fuentes de Grasas Saludables"
+      },
+      {
+        "nombre": "Nueces y almendras",
+        "descripcion": "Altas en grasas saludables y nutrientes esenciales. Beneficiosas para la salud cerebral.",
+        "categoria": "Fuentes de Grasas Saludables"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Frituras y alimentos fritos",
+        "descripcion": "Altos en grasas trans y poco saludables para el corazón.",
+        "categoria": "Fuentes de Grasas Saludables"
+      },
+      {
+        "nombre": "Productos con grasas hidrogenadas (margarina)",
+        "descripcion": "Contienen grasas trans que son perjudiciales para la salud.",
+        "categoria": "Fuentes de Grasas Saludables"
+      }
+    ]
+  },
+  "Especias y Hierbas": {
+    "Recomendados": [
+      {
+        "nombre": "Cúrcuma",
+        "descripcion": "Tiene propiedades antiinflamatorias y antioxidantes. Beneficiosa para la salud general.",
+        "categoria": "Especias y Hierbas"
+      },
+      {
+        "nombre": "Orégano",
+        "descripcion": "Rico en antioxidantes. Beneficioso para la salud digestiva y el sistema inmunológico.",
+        "categoria": "Especias y Hierbas"
+      },
+      {
+        "nombre": "Jengibre",
+        "descripcion": "Tiene propiedades antiinflamatorias y puede ayudar en la digestión.",
+        "categoria": "Especias y Hierbas"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Sal en exceso",
+        "descripcion": "El consumo excesivo de sal puede contribuir a problemas de presión arterial alta.",
+        "categoria": "Especias y Hierbas"
+      },
+      {
+        "nombre": "Especias y mezclas con alto contenido de sodio",
+        "descripcion": "Pueden contribuir a problemas de presión arterial alta y retención de agua.",
+        "categoria": "Especias y Hierbas"
+      }
+    ]
+  },
+  "Bebidas Saludables": {
+    "Recomendados": [
+      {
+        "nombre": "Agua",
+        "descripcion": "Esencial para la hidratación y el funcionamiento adecuado del cuerpo.",
+        "categoria": "Bebidas Saludables"
+      },
+      {
+        "nombre": "Té verde",
+        "descripcion": "Rico en antioxidantes que pueden beneficiar la salud del corazón y el metabolismo.",
+        "categoria": "Bebidas Saludables"
+      },
+      {
+        "nombre": "Infusiones de hierbas",
+        "descripcion": "Pueden tener propiedades calmantes y beneficios para la digestión.",
+        "categoria": "Bebidas Saludables"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Bebidas azucaradas",
+        "descripcion": "Altas en azúcares añadidos y calorías vacías.",
+        "categoria": "Bebidas Saludables"
+      },
+      {
+        "nombre": "Bebidas energéticas",
+        "descripcion": "Contienen altas cantidades de cafeína y azúcares, no son recomendables para la salud a largo plazo.",
+        "categoria": "Bebidas Saludables"
+      }
+    ]
+  },
+  "Opciones de Snacks Saludables": {
+    "Recomendados": [
+      {
+        "nombre": "Nueces y almendras",
+        "descripcion": "Ricas en grasas saludables, proteínas y nutrientes esenciales.",
+        "categoria": "Opciones de Snacks Saludables"
+      },
+      {
+        "nombre": "Yogur griego sin azúcar",
+        "descripcion": "Buena fuente de proteínas y probióticos para la salud intestinal.",
+        "categoria": "Opciones de Snacks Saludables"
+      },
+      {
+        "nombre": "Palitos de zanahoria con hummus",
+        "descripcion": "Bajo en calorías y rico en nutrientes, es una opción saludable para picar.",
+        "categoria": "Opciones de Snacks Saludables"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Patatas fritas y snacks procesados",
+        "descripcion": "Altos en grasas trans y aditivos poco saludables.",
+        "categoria": "Opciones de Snacks Saludables"
+      },
+      {
+        "nombre": "Galletas y pasteles comerciales",
+        "descripcion": "Suelen contener altos niveles de azúcares y grasas poco saludables.",
+        "categoria": "Opciones de Snacks Saludables"
+      }
+    ]
+  },
+  "Alimentos Ricos en Fibra": {
+    "Recomendados": [
+      {
+        "nombre": "Avena",
+        "descripcion": "Rica en fibra soluble que puede beneficiar la digestión y reducir el colesterol.",
+        "categoria": "Alimentos Ricos en Fibra"
+      },
+      {
+        "nombre": "Frijoles y legumbres",
+        "descripcion": "Excelente fuente de fibra y proteínas vegetales.",
+        "categoria": "Alimentos Ricos en Fibra"
+      },
+      {
+        "nombre": "Frutas y verduras frescas",
+        "descripcion": "Contienen fibra y nutrientes esenciales para una dieta equilibrada.",
+        "categoria": "Alimentos Ricos en Fibra"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Pan blanco y productos de harina refinada",
+        "descripcion": "Tienen menos fibra y nutrientes que las opciones integrales.",
+        "categoria": "Alimentos Ricos en Fibra"
+      },
+      {
+        "nombre": "Cereales azucarados",
+        "descripcion": "Altos en azúcares añadidos y bajos en fibra.",
+        "categoria": "Alimentos Ricos en Fibra"
+      }
+    ]
+  },
+  "Algas Marinas": {
+    "Recomendados": [
+      {
+        "nombre": "Nori",
+        "descripcion": "Rica en minerales como yodo y calcio, así como en vitaminas.",
+        "categoria": "Algas Marinas"
+      },
+      {
+        "nombre": "Wakame",
+        "descripcion": "Fuente de nutrientes y beneficiosos para la salud cardíaca.",
+        "categoria": "Algas Marinas"
+      },
+      {
+        "nombre": "Espagueti de mar",
+        "descripcion": "Alto contenido de hierro y fibra, beneficioso para la salud general.",
+        "categoria": "Algas Marinas"
+      }
+    ],
+    "NoRecomendados": [
+      {
+        "nombre": "Algas procesadas con exceso de sal",
+        "descripcion": "El exceso de sal puede ser perjudicial para la presión arterial.",
+        "categoria": "Algas Marinas"
+      },
+      {
+        "nombre": "Algas con alto contenido de metales pesados",
+        "descripcion": "Es importante elegir algas de fuentes confiables para evitar contaminantes.",
+        "categoria": "Algas Marinas"
+      }
+    ]
+  }
+}
